@@ -1,0 +1,213 @@
+{
+  "video": {
+    "sites": [
+      {
+        "key": "wogg",
+        "name": "神秘玩偶",
+        "type": 3,
+        "api": "assets://js/wogg_open.js",
+        "ext": "17ac5af2b3c844a0991093d773fb8b12"
+      },
+      {
+        "key": "libvio",
+        "name": "Libvio",
+        "type": 3,
+        "api": "assets://js/libvio_open.js"
+      },
+      {
+        "key": "czzy",
+        "name": "厂长资源",
+        "type": 3,
+        "api": "assets://js/czzy_open.js"
+      },
+      {
+        "key": "zxzj",
+        "name": "在线之家",
+        "type": 3,
+        "api": "assets://js/zxzj_open.js"
+      },
+      {
+        "key": "sbb",
+        "name": "素白白",
+        "type": 3,
+        "api": "assets://js/subaibai_open.js"
+      },
+      {
+        "key": "ngys",
+        "name": "南瓜影视",
+        "type": 3,
+        "api": "assets://js/ngys_open.js"
+      },
+      {
+        "key": "kunyu77",
+        "name": "琨娱七七",
+        "type": 3,
+        "api": "assets://js/kunyu77_open.js"
+      },
+      {
+        "key": "ikanbot",
+        "name": "iKanBot",
+        "type": 3,
+        "api": "assets://js/ikanbot_open.js"
+      },
+      {
+        "key": "kkys",
+        "name": "快看影视",
+        "type": 3,
+        "api": "assets://js/kkys_open.js"
+      },
+      {
+        "key": "nivod",
+        "name": "泥视频",
+        "type": 3,
+        "api": "assets://js/nivod_open.js",
+        "ext": "888解忧愁"
+      },
+      {
+        "key": "duboku",
+        "name": "独播库",
+        "type": 3,
+        "api": "assets://js/duboku_open.js"
+      },
+      {
+        "key": "kuqi",
+        "name": "酷奇MV",
+        "type": 3,
+        "api": "assets://js/kuqimv_open.js"
+      },
+      {
+        "key": "cntv",
+        "name": "视聚场",
+        "type": 3,
+        "api": "assets://js/cntv_open.js"
+      },
+      {
+        "key": "sharenice",
+        "name": "短视频",
+        "type": 3,
+        "api": "assets://js/sharenice_open.js"
+      },
+      {
+        "key": "bili",
+        "name": "哔哩哔哩",
+        "type": 3,
+        "api": "assets://js/bili_open.js",
+        "ext": "推荐#热门#电影#电视剧#番剧#MV#演唱会#相声小品#舞蹈"
+      },
+      {
+        "key": "mybili",
+        "name": "我的哔哩",
+        "type": 3,
+        "api": "assets://js/mybili_open.js"
+      },
+      {
+        "key": "sjdj",
+        "name": "世纪DJ",
+        "type": 3,
+        "api": "assets://js/sjdj_open.js"
+      },
+      {
+        "key": "230ts",
+        "name": "爱上你听书",
+        "type": 3,
+        "api": "assets://js/230ts_open.js"
+      },
+      {
+        "key": "txb",
+        "name": "兔小贝",
+        "type": 3,
+        "api": "assets://js/tuxiaobei_open.js"
+      },
+      {
+        "key": "boosj",
+        "name": "童趣",
+        "type": 3,
+        "api": "assets://js/boosj_open.js"
+      },
+      {
+        "key": "ubestkid",
+        "name": "贝乐虎",
+        "type": 3,
+        "api": "assets://js/ubestkid_open.js"
+      },
+      {
+        "key": "18av",
+        "name": "18AV",
+        "type": 3,
+        "api": "assets://js/18av_open.js"
+      },
+      {
+        "key": "mtsp",
+        "name": "蜜桃视频",
+        "type": 3,
+        "api": "assets://js/mtsp_open.js"
+      }
+    ]
+  },
+  "pan": {
+    "sites": [
+      {
+        "key": "alist",
+        "name": "Alist网盘",
+        "type": 40,
+        "api": "assets://js/alist_open.js",
+        "ext": [
+          {
+            "name": "🙋丫仙女",
+            "server": "http://alist.xiaoya.pro/",
+            "startPage": "/",
+            "showAll": false,
+            "search": true,
+            "headers": {
+              "Authorization": ""
+            },
+            "params": {
+              "/abc": {
+                "password": "123"
+              },
+              "/abc/abc": {
+                "password": "123"
+              }
+            }
+          },
+          {
+            "name": "🐋一只鱼",
+            "server": "https://alist.youte.ml"
+          },
+          {
+            "name": "🌊七米蓝",
+            "server": "https://al.chirmyram.com"
+          },
+          {
+            "name": "🐉神族九帝",
+            "server": "https://alist.shenzjd.com"
+          },
+          {
+            "name": "☃️姬路白雪",
+            "server": "https://pan.jlbx.xyz"
+          },
+          {
+            "name": "✨星梦",
+            "server": "https://pan.bashroot.top"
+          },
+          {
+            "name": "💢repl",
+            "server": "https://ali.liucn.repl.co"
+          },
+          {
+            "name": "💦讯维云盘",
+            "server": "https://pan.xwbeta.com"
+          },
+          {
+            "name": "🔞🈲罗汉果",
+            "server": "https://lala-ofbip.run.goorm.site/"
+          },
+          {
+            "name": "🔞🈲老司机",
+            "server": "https://a.sodaz.xyz/"
+          }
+        ]
+      }
+    ]
+  }
+}
